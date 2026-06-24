@@ -2,7 +2,7 @@
 
 ## Overview
 
-This folder contains the AI Test Result Analyzer application, a complete solution for uploading Playwright JSON test results, analyzing failures with AI, and presenting the findings in a structured report.
+This repository contains the AI Test Result Analyzer project: a Git-ready AI analyzer for Playwright test result JSON files. It provides a user interface to upload test results, invoke Langflow-based analysis, and generate a clear report with summary cards, error bucket counts, and failed test details.
 
 The application includes:
 - React + Vite frontend UI for file upload and result visualization
